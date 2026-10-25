@@ -1,2 +1,0 @@
-[console_scripts]
-gigpitch = gigpitch.cli:main
