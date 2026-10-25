@@ -1,0 +1,49 @@
+# A made-up band for testing. Copy this file to start a new band's profile.
+slug: the-tidelines
+name: The Tidelines
+pitch: A five-piece folk-pop band playing original songs about the Yorkshire coast, with three-part harmonies.
+bio: >
+  The Tidelines formed in Whitby in 2021. Their first album, Low Water, came out in 2025.
+  They play a 2 x 45 minute seated concert set, or one 75 minute set for festivals.
+line_up:
+  - Ruth Hale (vocals, guitar)
+  - Sam Okafor (vocals, fiddle)
+  - Jen Marsh (vocals, keys)
+  - Tom Ellis (bass)
+  - Priya Shah (drums)
+formats: Five-piece for theatres, arts centres and festivals; acoustic trio for small rooms.
+sender:
+  name: Ruth Hale
+  role: band leader
+  email: bookings@thetidelines.example
+  phone: "01234 567890"
+  signature: |
+    Ruth Hale
+    The Tidelines
+    bookings@thetidelines.example | 01234 567890
+  example_subject: "The Tidelines: Proposal for Spring 2027"
+fees:
+  weekend_guide: "£900"
+  weekday_guide: "£650"
+  notes: Guides only. Never quoted without Ruth.
+targeting:
+  region: Yorkshire and the North East of England
+  venue_types:
+    - small theatres
+    - arts centres
+    - folk clubs
+    - listening rooms
+    - festivals
+  avoid:
+    - pubs without a seated music room
+do_not_contact: []
+links:
+  epk: https://thetidelines.example/epk
+  website: https://thetidelines.example
+current_focus: An album tour in April and May 2027.
+availability: Weekends preferred; avoid the first week of May 2027.
+style: |
+  Open with "My name is Ruth Hale, and I lead The Tidelines."
+  Formal sentences, no exclamation marks.
+  Close with "I look forward to hearing from you." then "Best wishes," and the signature.
+leads_per_week: 5

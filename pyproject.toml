@@ -1,0 +1,22 @@
+[project]
+name = "gigpitch"
+version = "0.1.0"
+description = "Gigpitch: weekly venue leads and ready-to-send pitches for bands"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=2.3",
+    "pydantic>=2",
+    "pyyaml>=6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+gigpitch = "gigpitch.cli:main"
+
+[tool.setuptools]
+packages = ["gigpitch"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: gigpitch
+Version: 0.1.0
+Summary: Gigpitch: weekly venue leads and ready-to-send pitches for bands
+Requires-Python: >=3.11
+Requires-Dist: anthropic>=2.3
+Requires-Dist: pydantic>=2
+Requires-Dist: pyyaml>=6
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"

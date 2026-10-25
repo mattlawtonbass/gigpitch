@@ -1,0 +1,17 @@
+pyproject.toml
+gigpitch/__init__.py
+gigpitch/ai.py
+gigpitch/cli.py
+gigpitch/dates.py
+gigpitch/gmail_link.py
+gigpitch/profile.py
+gigpitch/prompts.py
+gigpitch/store.py
+gigpitch/weekly.py
+gigpitch.egg-info/PKG-INFO
+gigpitch.egg-info/SOURCES.txt
+gigpitch.egg-info/dependency_links.txt
+gigpitch.egg-info/entry_points.txt
+gigpitch.egg-info/requires.txt
+gigpitch.egg-info/top_level.txt
+tests/test_gigpitch.py
